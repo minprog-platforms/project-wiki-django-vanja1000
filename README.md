@@ -45,3 +45,9 @@ Clicking “Random Page” in the sidebar should take user to a random encyclope
 
 `python manage.py runserver`
 
+
+
+![20211203_201645](https://user-images.githubusercontent.com/90252333/144660374-2c5350cf-42d7-47f8-b59b-374090e40754.jpg)
+
+![20211203_201659](https://user-images.githubusercontent.com/90252333/144660393-cca8ae1c-3e2e-4e1b-9b37-2ed048f97925.jpg)
+
